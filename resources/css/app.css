@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@source '../views';
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+
+@theme {
+    --color-brand-offwhite: #FAF9F6;
+    --color-brand-offblack: #141414;
+    --color-brand-accent: #C85A32;
+    --color-brand-accent2: #f0b95d;
+}
