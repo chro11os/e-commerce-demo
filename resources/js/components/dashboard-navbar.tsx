@@ -1,7 +1,6 @@
-export default function DashboardNavbar () {
+export default function DashboardNavbar() {
+    const = ['login', 'logout','home','cart','profile'] ;
     return (
-        <nav className="p-7 text-brand-offblack text-center">
-            
-        </nav>
+
     );
 }
