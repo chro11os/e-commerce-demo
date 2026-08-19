@@ -4,7 +4,7 @@ import ShopGrid from '@/components/shop-grid';
 
 export default function App() {
     return (
-        <div className="grid grid-cols-2">
+        <div className="grid grid-rows-1 gap-4">
             <div className="grid">
                 <DashboardNavbar />
             </div>
